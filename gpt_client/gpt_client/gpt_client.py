@@ -3,6 +3,7 @@ import os
 import json
 import logging
 import time
+import numpy as np
 
 import rclpy
 from rclpy.node import Node
@@ -98,7 +99,7 @@ class GPTAssistant:
 
             embeddings = OpenAIEmbeddings()
 
-            pinecone.init(api_key=os.getenv("PINECONE_API_KEY"), environment="us-west4-gcp-free")
+            pinecone.init(api_key=os.getenv("PINECONE_API_KEY"), environment="gcp-starter")
             index_name = "langchain-demo"
             # Check if our index already exists. If it doesn't, we create it
             if index_name not in pinecone.list_indexes():

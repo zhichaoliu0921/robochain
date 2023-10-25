@@ -1,0 +1,57 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/arcslab/gpt_ws/install/gpt_interface/include/**",
+        "/home/arcslab/catkin_ws/devel/include/**",
+        "/home/arcslab/cartographer_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/arcslab/catkin_ws/src/robots/configs/a1_config/include/**",
+        "/home/arcslab/catkin_ws/src/robots/configs/aliengo_config/include/**",
+        "/home/arcslab/catkin_ws/src/robots/configs/anymal_b_config/include/**",
+        "/home/arcslab/catkin_ws/src/robots/configs/anymal_c_config/include/**",
+        "/home/arcslab/catkin_ws/src/robots/configs/astro_config/include/**",
+        "/home/arcslab/catkin_ws/src/robots/configs/bruno_config/include/**",
+        "/home/arcslab/catkin_ws/src/VINS-Fusion/camera_models/include/**",
+        "/home/arcslab/catkin_ws/src/champ/champ/include/**",
+        "/home/arcslab/catkin_ws/src/champ/champ_base/include/**",
+        "/home/arcslab/catkin_ws/src/champ/champ_config/include/**",
+        "/home/arcslab/catkin_ws/src/cortex_control_franka/include/**",
+        "/home/arcslab/catkin_ws/src/robots/configs/dkitty_config/include/**",
+        "/home/arcslab/catkin_ws/src/robots/configs/dream_walker_config/include/**",
+        "/home/arcslab/catkin_ws/src/FAST_LIO/include/**",
+        "/home/arcslab/catkin_ws/src/common_nebula_slam/frontend_utils/include/**",
+        "/home/arcslab/catkin_ws/src/common_nebula_slam/geometry_utils/include/**",
+        "/home/arcslab/catkin_ws/src/robots/configs/go1_config/include/**",
+        "/home/arcslab/catkin_ws/src/learning_tf2/include/**",
+        "/home/arcslab/catkin_ws/src/robots/configs/littledog_config/include/**",
+        "/home/arcslab/catkin_ws/src/robots/configs/mini_cheetah_config/include/**",
+        "/home/arcslab/catkin_ws/src/robots/configs/mini_pupper_config/include/**",
+        "/home/arcslab/catkin_ws/src/robots/descriptions/spot_mini_mini/mini_ros/include/**",
+        "/home/arcslab/catkin_ws/src/robots/configs/open_quadruped_config/include/**",
+        "/home/arcslab/catkin_ws/src/robots/configs/opendog_config/include/**",
+        "/home/arcslab/catkin_ws/src/common_nebula_slam/parameter_utils/include/**",
+        "/home/arcslab/catkin_ws/src/common_nebula_slam/point_cloud_mapper/include/**",
+        "/home/arcslab/catkin_ws/src/robots/configs/spot_config/include/**",
+        "/home/arcslab/catkin_ws/src/robots/configs/spotmicro_config/include/**",
+        "/home/arcslab/catkin_ws/src/robots/configs/stanford_pupper_config/include/**",
+        "/home/arcslab/catkin_ws/src/robots/configs/stochlite_config/include/**",
+        "/home/arcslab/catkin_ws/src/turtlebot3/turtlebot3_slam/include/**",
+        "/home/arcslab/catkin_ws/src/unitree_ros_to_real/unitree_legged_real/include/**",
+        "/home/arcslab/catkin_ws/src/unitree_legged_sdk/include/**",
+        "/home/arcslab/catkin_ws/src/yocs_velocity_smoother/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

@@ -6,7 +6,7 @@ import rclpy
 from rclpy.node import Node
 from rclpy.executors import SingleThreadedExecutor
 from gpt_interface.srv import GPT
-
+import numpy as np
 import os
 import sys
 sys.path.append(os.path.dirname(__file__))

@@ -1,0 +1,24 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/arcslab/gpt_ws/build/gpt_server",
+        "/home/arcslab/gpt_ws/install/gpt_server/lib/python3.8/site-packages",
+        "/home/arcslab/gpt_ws/build/gpt_client",
+        "/home/arcslab/gpt_ws/install/gpt_client/lib/python3.8/site-packages",
+        "/home/arcslab/gpt_ws/install/gpt_interface/lib/python3.8/site-packages",
+        "/opt/ros/foxy/lib/python3.8/site-packages",
+        "/home/arcslab/cartographer_ws/devel/lib/python3/dist-packages",
+        "/home/arcslab/catkin_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/arcslab/gpt_ws/build/gpt_server",
+        "/home/arcslab/gpt_ws/install/gpt_server/lib/python3.8/site-packages",
+        "/home/arcslab/gpt_ws/build/gpt_client",
+        "/home/arcslab/gpt_ws/install/gpt_client/lib/python3.8/site-packages",
+        "/home/arcslab/gpt_ws/install/gpt_interface/lib/python3.8/site-packages",
+        "/opt/ros/foxy/lib/python3.8/site-packages",
+        "/home/arcslab/cartographer_ws/devel/lib/python3/dist-packages",
+        "/home/arcslab/catkin_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ]
+}

@@ -1,3 +1,15 @@
 # Scenario-1, Pick-and-Place:
 You are working in a scenario, where exists a robotic arm with the gripper, a table which has 
-three kinds of blocks randomly placed on it, called 'red_block', 'white_block' and 'green_block'.
+three kinds of blocks randomly placed on it, called 'red_block', 'blue_block' and 'green_block'.
+
+When picking an object, you follow the sequence:
+1. Get the current pose of the object
+2. Open the gripper
+3. Move to the position above the object by 5cm.
+4. Move to the object position
+5. Close the gripper
+4. Move up by 5cm
+
+
+
+
